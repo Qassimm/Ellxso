@@ -1,0 +1,76 @@
+{
+  "heroSlides": [
+    {
+      "src": "/images/banners/hero1.webp",
+      "width": 2172,
+      "height": 724,
+      "alt": "Elevate your look, men and women accessories",
+      "href": "/shop/new-arrivals"
+    },
+    {
+      "src": "/images/banners/hero2.webp",
+      "width": 1947,
+      "height": 808,
+      "alt": "Own the moment, premium watches",
+      "href": "/shop/men"
+    },
+    {
+      "src": "/images/banners/hero3.webp",
+      "width": 1945,
+      "height": 808,
+      "alt": "Elevate your presence, premium fragrance",
+      "href": "/shop/women"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Men Formal",
+      "src": "/images/categories/category1.png",
+      "href": "/shop/men/formal-watches"
+    },
+    {
+      "name": "Men Sports",
+      "src": "/images/categories/category2.webp",
+      "href": "/shop/men/sports-watches"
+    },
+    {
+      "name": "Female Fancy",
+      "src": "/images/categories/category3.webp",
+      "href": "/shop/women/fancy-watches"
+    },
+    {
+      "name": "Female Bracelet",
+      "src": "/images/categories/category4.webp",
+      "href": "/shop/women/bracelet-watches"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Men Formal",
+      "src": "/videos/v1.mp4",
+      "href": "/shop/men/formal-watches"
+    },
+    {
+      "name": "Men Sports",
+      "src": "/videos/v2.mp4",
+      "href": "/shop/men/sports-watches"
+    },
+    {
+      "name": "Female Fancy",
+      "src": "/videos/v3.mp4",
+      "href": "/shop/women/fancy-watches"
+    },
+    {
+      "name": "Female Bracelet",
+      "src": "/videos/v4.mp4",
+      "href": "/shop/women/bracelet-watches"
+    }
+  ],
+  "promo": {
+    "src": "/images/promo/promotional-banner.webp",
+    "width": 1200,
+    "height": 500,
+    "alt": "Premium accessories collection",
+    "href": "/shop/on-sale"
+  }
+}

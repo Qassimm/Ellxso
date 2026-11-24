@@ -1,0 +1,13 @@
+{
+  "name": "Ellxso",
+  "logo": { "src": "/logo/logo.webp", "width": 1790, "height": 612 },
+  "announcement": {
+    "welcome": "Welcome to Elite Luxury Store",
+    "marquee": "Get 20% discount on first purchase"
+  },
+  "socials": [
+    { "label": "Facebook", "icon": "facebook", "href": "#" },
+    { "label": "Instagram", "icon": "instagram", "href": "#" },
+    { "label": "TikTok", "icon": "tiktok", "href": "#" }
+  ]
+}

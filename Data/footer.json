@@ -1,0 +1,105 @@
+{
+  "columns": [
+    {
+      "title": "SHOP ELLXSO",
+      "links": [
+        {
+          "label": "New Arrivals",
+          "href": "/shop/new-arrivals"
+        },
+        {
+          "label": "Best Sellers",
+          "href": "/shop/best-sellers"
+        },
+        {
+          "label": "Men Formal Watches",
+          "href": "/shop/men/formal-watches"
+        },
+        {
+          "label": "Men Sports Watches",
+          "href": "/shop/men/sports-watches"
+        },
+        {
+          "label": "Men Leather Watches",
+          "href": "/shop/men/leather-watches"
+        },
+        {
+          "label": "Women Fancy Watches",
+          "href": "/shop/women/fancy-watches"
+        },
+        {
+          "label": "Women Bracelet Watches",
+          "href": "/shop/women/bracelet-watches"
+        }
+      ]
+    },
+    {
+      "title": "CUSTOMER CARE",
+      "links": [
+        {
+          "label": "FAQS",
+          "href": "#"
+        },
+        {
+          "label": "Contact Us",
+          "href": "#"
+        },
+        {
+          "label": "Returns & Exchange Policy",
+          "href": "#"
+        },
+        {
+          "label": "Retail Policy",
+          "href": "#"
+        },
+        {
+          "label": "Warranty Information",
+          "href": "#"
+        },
+        {
+          "label": "Shipping Policy",
+          "href": "#"
+        },
+        {
+          "label": "Modes of Payment",
+          "href": "#"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "label": "Terms of Service",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "title": "ABOUT US",
+      "links": [
+        {
+          "label": "Our Stores",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "socials": [
+    {
+      "label": "Instagram",
+      "icon": "instagram",
+      "href": "#"
+    },
+    {
+      "label": "Facebook",
+      "icon": "facebook",
+      "href": "#"
+    },
+    {
+      "label": "YouTube",
+      "icon": "youtube",
+      "href": "#"
+    }
+  ],
+  "copyright": "© 2026 Ellxso"
+}

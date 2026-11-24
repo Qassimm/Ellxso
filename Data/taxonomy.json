@@ -1,0 +1,110 @@
+{
+  "departments": [
+    {
+      "name": "Men",
+      "slug": "men",
+      "subcategories": [
+        {
+          "name": "Formal Watches",
+          "slug": "formal-watches"
+        },
+        {
+          "name": "Sports Watches",
+          "slug": "sports-watches"
+        },
+        {
+          "name": "Leather Watches",
+          "slug": "leather-watches"
+        }
+      ]
+    },
+    {
+      "name": "Women",
+      "slug": "women",
+      "subcategories": [
+        {
+          "name": "Fancy Watches",
+          "slug": "fancy-watches"
+        },
+        {
+          "name": "Bracelet Watches",
+          "slug": "bracelet-watches"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "name": "Brand",
+      "field": "brand"
+    },
+    {
+      "name": "Strap Material",
+      "field": "strapMaterial",
+      "options": [
+        "Leather",
+        "Stainless Steel",
+        "Rubber"
+      ]
+    },
+    {
+      "name": "Feature",
+      "field": "feature",
+      "options": [
+        "Analog",
+        "Digital"
+      ]
+    },
+    {
+      "name": "Dial Shape",
+      "field": "dialShape",
+      "options": [
+        "Round",
+        "Square"
+      ]
+    },
+    {
+      "name": "Dial color",
+      "field": "color",
+      "swatch": true
+    }
+  ],
+  "sortingOptions": [
+    "Recommended",
+    "Newest First",
+    "Oldest First",
+    "Price: Low to High",
+    "Price: High to Low",
+    "Best Selling"
+  ],
+  "productCollections": [
+    {
+      "name": "Best Sellers",
+      "slug": "best-sellers",
+      "sortBy": "soldCount",
+      "order": "descending",
+      "limit": 12
+    },
+    {
+      "name": "New Arrivals",
+      "slug": "new-arrivals",
+      "sortBy": "createdAt",
+      "order": "descending",
+      "limit": 12
+    },
+    {
+      "name": "Featured Products",
+      "slug": "featured",
+      "filterBy": {
+        "isFeatured": true
+      }
+    },
+    {
+      "name": "On Sale",
+      "slug": "on-sale",
+      "filterBy": {
+        "isOnSale": true
+      }
+    }
+  ]
+}

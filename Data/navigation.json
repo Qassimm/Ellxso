@@ -1,0 +1,60 @@
+[
+  {
+    "label": "About",
+    "items": [
+      {
+        "label": "Our Store",
+        "href": "#"
+      },
+      {
+        "label": "Our Story",
+        "href": "#"
+      }
+    ]
+  },
+  {
+    "label": "Men",
+    "href": "/shop/men",
+    "items": [
+      {
+        "label": "Formal Watches",
+        "href": "/shop/men/formal-watches",
+        "image": "/images/categories/menFormal.webp"
+      },
+      {
+        "label": "Sports Watches",
+        "href": "/shop/men/sports-watches",
+        "image": "/images/categories/sports.webp"
+      },
+      {
+        "label": "Leather Watches",
+        "href": "/shop/men/leather-watches",
+        "image": "/images/products/men/watches/meridian-black.webp"
+      }
+    ]
+  },
+  {
+    "label": "Women",
+    "href": "/shop/women",
+    "items": [
+      {
+        "label": "Fancy Watches",
+        "href": "/shop/women/fancy-watches",
+        "image": "/images/categories/femaleFancy.webp"
+      },
+      {
+        "label": "Bracelet Watches",
+        "href": "/shop/women/bracelet-watches",
+        "image": "/images/categories/braceletWatch.webp"
+      }
+    ]
+  },
+  {
+    "label": "New Arrivals",
+    "href": "/shop/new-arrivals"
+  },
+  {
+    "label": "Best Sellers",
+    "href": "/shop/best-sellers"
+  }
+]
